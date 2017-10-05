@@ -33,4 +33,8 @@ c) Whenever you have a single HTTP call you should use $http. Whenever you have 
             });
         }
     };
-}```
+}
+```
+Decorators In Angular
+--------
+<a href="https://toddmotto.com/angular-decorators">click here</a>
