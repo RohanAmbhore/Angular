@@ -38,3 +38,5 @@ c) Whenever you have a single HTTP call you should use $http. Whenever you have 
 Decorators In Angular
 --------
 <a href="https://toddmotto.com/angular-decorators">click here</a>
+
+### <a href="https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes"> 18 Mistakes in AngularJs </a>
