@@ -40,3 +40,8 @@ Decorators In Angular
 <a href="https://toddmotto.com/angular-decorators">click here</a>
 
 ### <a href="https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes"> 18 Mistakes in AngularJs </a>
+
+
+Custom Directive
+-----
+<a href="https://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-3-isolate-scope-and-function-parameters"> click </a>
