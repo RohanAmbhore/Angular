@@ -45,3 +45,8 @@ Decorators In Angular
 Custom Directive
 -----
 <a href="https://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-3-isolate-scope-and-function-parameters"> click </a>
+
+
+Change Detection in angular2
+------
+<a href="https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html"> click </a>
